@@ -1,2 +1,20 @@
 * search file under curdir
 C-t
+select then enter twiter to enter
+* select multi to paster
+C-t then TAB
+*  process selecton
+kill -9 
+then TAB
+input processname keyword
+can select multi processes
+* hostname
+ping
+TAB
+HOSTname from /etc/hosts
+ssh telnet
+* C-r
++S whole word match
+-S fzf
+* env
+set unset unalias
