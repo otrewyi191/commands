@@ -1,0 +1,3 @@
+* help
+just enter Spc h l
+no need to look layer dir
