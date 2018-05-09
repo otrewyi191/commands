@@ -8,6 +8,7 @@ shortter:
 
 * switch between evil and holy (in hybrid mode)
 C-z
+switch to/from evil's naigate/edit mode
 * M-m
 holy mode M-m equals to lead key
 * modess
