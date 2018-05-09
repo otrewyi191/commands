@@ -1,0 +1,16 @@
+* quitt
+toggle holy-mode:
+M-m t E e
+SPC t E e
+
+shortter:
+(global-set-key (kbd "<f9>") 'holy-mode) ; toggle holy-mode using the <f9> key
+
+* switch between evil and holy (in hybrid mode)
+C-z
+* M-m
+holy mode M-m equals to lead key
+* modess
+evil mode = vim
+holy mode = emacs
+hybrid mode = emacs + vim
