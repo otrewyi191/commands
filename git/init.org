@@ -1,0 +1,3 @@
+* initt
+git config --global user.name "otrewyi191"
+git config --global user.email "piofcircle@gmail.com"
