@@ -1,0 +1,2 @@
+* search file under curdir
+C-t
