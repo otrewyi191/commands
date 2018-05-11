@@ -1,0 +1,9 @@
+* ibuffer
+add to config
+
+* set how buffer are grouped
+ibuffer-group-buffers-by
+
+* jump by group
+g j
+g k

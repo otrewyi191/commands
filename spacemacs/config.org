@@ -1,0 +1,4 @@
+* restart spacemacs
+s q R
+* refresh config
+s f e R
