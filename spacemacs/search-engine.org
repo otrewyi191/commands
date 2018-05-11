@@ -1,3 +1,5 @@
 * google
 layers dir find README
 add search-engine
+* search in buffer
+* search in project

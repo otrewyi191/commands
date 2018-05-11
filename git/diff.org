@@ -1,3 +1,8 @@
 * init
 
+before
+
 magit to merge
+
+adter
+
