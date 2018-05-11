@@ -7,3 +7,13 @@ ibuffer-group-buffers-by
 * jump by group
 g j
 g k
+* / search
+regex
+emacs mode
+* // cancel filter
+* =
+diff unsave file
+* g
+refresh
+* dired
+operates like dired
