@@ -1,19 +1,35 @@
 * ibuffer
-add to config
+  add to config
 
 * set how buffer are grouped
-ibuffer-group-buffers-by
+  ibuffer-group-buffers-by
 
 * jump by group
-g j
-g k
+  g j
+  g k
 * / search
-regex
-emacs mode
+  regex
+  emacs mode
 * // cancel filter
 * =
-diff unsave file
+  diff unsave file
 * g
-refresh
+  refresh
 * dired
-operates like dired
+  operates like dired
+* mark
+  mark togle unmark
+  * mark certern type
+  % mark with regrep
+
+* j
+  jump to buffer line
+* h
+  help
+* O
+  search in marked buffer
+* U
+  replace in marked buffer
+* workflow
+  s v sort by recency
+  j jumpto

@@ -1,1 +1,6 @@
-* 
+* Spc p p
+open project
+* Spc p D
+dired open project root
+* Spc p f
+search in project

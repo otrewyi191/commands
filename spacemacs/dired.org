@@ -1,1 +1,32 @@
-* 
+*  open
+Spc a d
+* project dired
+Spc p D
+* mark
+# emacs back file
+~ vi back file
+& garbage file
+* batch match
+%
+*
+* param number
+C-u
+can < 0
+* operation
+C
+R
+D
+S
+G
+O
+A regex
+* sort and filter
+k kill
+g refresh
+ mark -> kill => filter
+* subdir
+i
+* copy file Name
+W
+C-u 0 W absolute path
+C-u relative path
