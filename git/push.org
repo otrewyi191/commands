@@ -1,0 +1,6 @@
+* init a local git repo
+can add some file into it
+* set remote 
+init an empty repo in github
+then set upstream to it
+push to it
