@@ -2,4 +2,9 @@
 layers dir find README
 add search-engine
 * search in buffer
+spc s s
+spc s b
 * search in project
+spc s p
+equals
+spc *
