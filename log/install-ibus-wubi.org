@@ -1,0 +1,8 @@
+* fedora
+** install ibus wubi
+[[https://www.zhukun.net/archives/4856][fedora-haifeng-wubi]]
+$ sudo yum list | grep wubi               #查看有哪些五笔输入法
+ibus-table-chinese-wubi-haifeng.noarch  1.4.6-2.fc19                     fedora 
+ibus-table-chinese-wubi-jidian.noarch   1.4.6-2.fc19                     fedora 
+ 
+$ sudo yum install ibus-table-chinese-wubi-haifeng   #安装海峰五笔

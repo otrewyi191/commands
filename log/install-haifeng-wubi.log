@@ -1,0 +1,47 @@
+zzx@localhost:~/project/commands/log$ sudo yum list | grep wubi
+ibus-table-chinese-wubi-haifeng.noarch   1.8.2-9.fc28                  fedora   
+ibus-table-chinese-wubi-jidian.noarch    1.8.2-9.fc28                  fedora   
+zzx@localhost:~/project/commands/log$ sudo yum install ibus-table-chinese-wubi-haifeng   #安装海峰五笔
+上次元数据过期检查：1:43:22 前，执行于 2018年05月13日 星期日 21时17分02秒。
+依赖关系解决。
+===================================================================================================================================================================================================================
+ 软件包                                                              架构                                       版本                                              仓库                                        大小
+===================================================================================================================================================================================================================
+安装:
+ ibus-table-chinese-wubi-haifeng                                     noarch                                     1.8.2-9.fc28                                      fedora                                     2.0 M
+正在安装安装依赖关系:
+ ibus-table                                                          noarch                                     1.9.18-2.fc28                                     fedora                                     329 k
+ ibus-table-chinese                                                  noarch                                     1.8.2-9.fc28                                      fedora                                      11 k
+
+事务概要
+===================================================================================================================================================================================================================
+安装  3 软件包
+
+总下载：2.3 M
+安装大小：5.7 M
+确定吗？[y/N]：y
+下载软件包：
+(1/3): ibus-table-chinese-1.8.2-9.fc28.noarch.rpm                                                                                                                                   68 kB/s |  11 kB     00:00    
+(2/3): ibus-table-1.9.18-2.fc28.noarch.rpm                                                                                                                                         315 kB/s | 329 kB     00:01    
+(3/3): ibus-table-chinese-wubi-haifeng-1.8.2-9.fc28.noarch.rpm                                                                                                                     1.7 MB/s | 2.0 MB     00:01    
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+总计                                                                                                                                                                               120 kB/s | 2.3 MB     00:19     
+运行事务检查
+事务检查成功。
+运行事务测试
+事务测试成功。
+运行事务
+  准备中  :                                                                                                                                                                                                    1/1 
+  安装    : ibus-table-1.9.18-2.fc28.noarch                                                                                                                                                                    1/3 
+  安装    : ibus-table-chinese-1.8.2-9.fc28.noarch                                                                                                                                                             2/3 
+  安装    : ibus-table-chinese-wubi-haifeng-1.8.2-9.fc28.noarch                                                                                                                                                3/3 
+  运行脚本: ibus-table-chinese-wubi-haifeng-1.8.2-9.fc28.noarch                                                                                                                                                3/3 
+  验证    : ibus-table-chinese-wubi-haifeng-1.8.2-9.fc28.noarch                                                                                                                                                1/3 
+  验证    : ibus-table-chinese-1.8.2-9.fc28.noarch                                                                                                                                                             2/3 
+  验证    : ibus-table-1.9.18-2.fc28.noarch                                                                                                                                                                    3/3 
+
+已安装:
+  ibus-table-chinese-wubi-haifeng.noarch 1.8.2-9.fc28                              ibus-table.noarch 1.9.18-2.fc28                              ibus-table-chinese.noarch 1.8.2-9.fc28                             
+
+完毕！
+zzx@localhost:~/project/commands/log$ 
