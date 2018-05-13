@@ -1,0 +1,11 @@
+* Spc f f
+* Spc f R
+* Spc f D
+* Alt + Spc
+into helm transient state
+* all in one
+spc p h
+=
+helm-projectile-switch-too-buffer
+helm-projectile-find-file
+helm-projectile-switch-project

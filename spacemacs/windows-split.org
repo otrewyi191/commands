@@ -1,0 +1,4 @@
+* golden split spc t g
+* switch to other window spc w w
+* switch to specified window spc w W
+ p

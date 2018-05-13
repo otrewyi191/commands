@@ -1,0 +1,10 @@
+* Tasks
+** TODO 
+   [2018-05-12 Sat]
+   [[file:~/github/commands/org-mode/orgmode.org::*capture][capture]]
+** TODO zzx
+   [2018-05-12 Sat]
+   [[file:~/github/commands/org-mode/orgmode.org::*capture][capture]]
+** TODO test
+   [2018-05-12 Sat]
+   [[file:~/github/commands/org-mode/orgmode.org::*lead%20key][lead key]]

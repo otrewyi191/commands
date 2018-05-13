@@ -1,3 +1,6 @@
 * Spc m S h/j/k/l 
  fs gS bb
 
+* narrow widen
+spc m n/N
+, n/N

@@ -1,0 +1,6 @@
+* key '
+'' previous place
+* m a    mark a
+* ' a    goto mark a
+
+* :marks show all marks

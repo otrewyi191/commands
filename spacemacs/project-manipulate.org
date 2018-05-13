@@ -4,3 +4,6 @@ open project
 dired open project root
 * Spc p f
 search in project
+
+* Spc p d   show dir in proj
+M-e to open eshell there
