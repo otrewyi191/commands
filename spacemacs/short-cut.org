@@ -1,5 +1,7 @@
 * key binding
 Spc ?
+
+spc h i   show the info of keybinding
 * which key
 Spc h k
 
