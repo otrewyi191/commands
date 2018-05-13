@@ -3,11 +3,12 @@ Spc ?
 * which key
 Spc h k
 
+*** show shortcuts
+  spc ?   can search
+
+
 * lead keys
 ,
 
-* show shortcuts
-spc ?   can search
-
 * open buffes in this project
-spc pb
+spc p b

@@ -3,7 +3,7 @@
 * spacemacs indent startup
    org-startup-indented t
 * style
-** font
+** TODO font
 /test/
 *test*
 +test+
@@ -25,6 +25,8 @@ var j
 #+BEGIN_QUOTE
 text
 #+END_QUOTE
+
+
 * expad
 TAB
 SHIFT TAB
@@ -51,6 +53,8 @@ TAB  S-TAB
 , t i h   insert horizon line
 , t d r   delete row   dd
 , t d c   delete column
+* move promote
+alt jk  hl
 
 * change title level
 ** this level
@@ -62,3 +66,20 @@ shift ->/<-
 - [ ] TODO
 * agent mode
 , a
+* same level move
+gj gk
+* add head item
+** tes
+* turn line into head
+ctrl c *
+* turn line into item
+** TODO ctrl-c -
+1) , -
+2) change style
+3) t,*
+*  insert head title
+spc m h i/I
+, h i/I
+* insert sub dir
+  , h s
+
