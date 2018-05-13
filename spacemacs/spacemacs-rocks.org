@@ -1,0 +1,13 @@
+* 1
+** function jump
+ spc s l
+not found
+** init file
+spc f e i 
+* org-mode
+** org agenda
+*** org agenda in mind
+look agend first each day
+*** what should in agenda
+important things first
+*** 
