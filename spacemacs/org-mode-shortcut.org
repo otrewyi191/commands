@@ -1,0 +1,64 @@
+
+
+* spacemacs indent startup
+   org-startup-indented t
+* style
+** font
+/test/
+*test*
++test+
+_test_
+[[https://emacs-china.org/t/spacemacs-0-2/1372/9][link]]
+[[https://avatars1.githubusercontent.com/u/3816105?v=2&s=96][image]]
+** items
+- item
+- item2
+- item3
+** code
+=code=
+~code~
+
+#+BEGIN_SRC js
+var j
+#+END_SRC
+
+#+BEGIN_QUOTE
+text
+#+END_QUOTE
+* expad
+TAB
+SHIFT TAB
+alt up/down
+* table
+** create table
+spc m t n
+, t n
+|   |   |   |
+|---+---+---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+| idle | user     | ttt |   |   |
+|------+----------+-----+---+---|
+| dd   | dddddddd |     |   |   |
+
+** shortcut table
+TAB  S-TAB
+, t a     auto align
+, t i r
+, t i c   insert column
+, t i h   insert horizon line
+, t d r   delete row   dd
+, t d c   delete column
+
+* change title level
+** this level
+alt ->/<-
+** with sub tree
+alt shift  ->/<-
+* tode
+shift ->/<-
+- [ ] TODO
+* agent mode
+, a
